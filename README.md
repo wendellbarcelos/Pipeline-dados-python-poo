@@ -1,0 +1,3 @@
+# Curso Pipeline de dados: Combinando Python e orientação a objeto
+
+Nesse curso, foi focado na criação de um pipeline de processos com python, no primeiro momento foi abordado todo o tratamento dos dados, seguindo com a criação dos scripts, criando funções para processar os dados de forma simples, após isso, foi refatorado todo o codigo usando programação orientação a objeto, com a classe dados criado, passamos por todas as funções criadas anteriormente, trazendo dinamismoa com o foco apenas na entrada dos dados, pois todos os parametros do tratamento ja foi passado pela classe.
